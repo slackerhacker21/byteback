@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+byteback.db
+
+# Node
+node_modules/
+dist/
+*.log
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
